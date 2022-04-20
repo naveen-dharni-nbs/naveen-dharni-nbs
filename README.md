@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naveen-dharni-nbs
 - 👀 I’m interested in Web development
 - 🌱 I’m currently working with Happy Nerds & learning Nextjs
-- 📫 How to reach me ... or naveen.dharmi@nationwide.co.uk
+- 📫 How to reach me ... naveen.dharmi@nationwide.co.uk
 
 <!---
 naveen-dharni-nbs/naveen-dharni-nbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
